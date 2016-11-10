@@ -22,7 +22,7 @@ We do not make assumptions or partake in guesswork. Decisions are informed by da
 
 To paraphrase Jim Barksdale, former Netscape CEO;
 
-“If we have data, let’s look at data. If all we have are opinions, let’s go with [Laura](https://twitter.com/lauradee).”
+> “If we have data, let’s look at data. If all we have are opinions, let’s go with [Laura](https://twitter.com/lauradee).”
 
 ## 5. Share and be open
 We should share what we’re doing whenever we can. With colleagues, with users, with the world. Share code, share designs, share ideas, share intentions, share failures. The more eyes there are on a service the better it gets — howlers are spotted, better alternatives are pointed out, the bar is raised.
