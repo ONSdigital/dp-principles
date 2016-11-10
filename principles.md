@@ -12,10 +12,10 @@ Agile is not a set of rules to be followed but rather a set of principles to asp
 
 We follow the Agile Manifesto:
 
-• Individuals and interactions over processes and tools
-• Working software over comprehensive documentation
-• Customer collaboration over contract negotiation
-• Responding to change over following a plan
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
 
 ## 4. Data informs decisions
 We do not make assumptions or partake in guesswork. Decisions are informed by data wherever possible. Data needs to be put in context though and should be considered alongside user research and domain understanding.
