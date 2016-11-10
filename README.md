@@ -4,7 +4,7 @@ Download posters of our Digital Publishing principles.
 
 ## Digital Publishing principles
 
-[Read the full principles](principles.md)
+[Read the full principles](principles.md).
 
 1. Always put our users first
 2. Less process, more progress
@@ -18,10 +18,10 @@ Download posters of our Digital Publishing principles.
 10. Specialists, not silos
 11. Be inclusive not exclusive
 
-[Read Matt’s blog post about the principles](https://blog.ons.digital/2016/07/27/the-first-xi-ons-digital-publishing-principles/)
+[Read Matt’s blog post about the principles](https://blog.ons.digital/2016/07/27/the-first-xi-ons-digital-publishing-principles/).
 
 ## License
 
-Copyright ©‎ 2016, Office for National Statistics (https://www.ons.gov.uk)
+Copyright ©‎ 2016, Office for National Statistics (https://www.ons.gov.uk).
 
 Released under MIT license, see [LICENSE](LICENSE.md) for details.
