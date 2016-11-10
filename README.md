@@ -1,8 +1,8 @@
 # ONS Digital Publishing principles
 
-Download posters of our Digital Publishing principles.
+These principles were created by the ONS Digital Publishing team. Thanks to Rhod for designing the posters!
 
-## Digital Publishing principles
+## Principles
 
 [Read the full principles](principles.md).
 
