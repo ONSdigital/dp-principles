@@ -4,6 +4,8 @@ Download posters of our Digital Publishing principles.
 
 ## Digital Publishing principles
 
+[Read the full principles](principles.md).
+
 1. Always put our users first
 2. Less process, more progress
 3. Be agile
