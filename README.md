@@ -20,6 +20,8 @@ These principles were created by the ONS Digital Publishing team. Thanks to Rhod
 
 [Read Matt’s blog post about the principles](https://blog.ons.digital/2016/07/27/the-first-xi-ons-digital-publishing-principles/).
 
+Further reading [Government Digital Service Design Principles](https://www.gov.uk/design-principles)
+
 ## License
 
 Copyright ©‎ 2016, Office for National Statistics (https://www.ons.gov.uk).
