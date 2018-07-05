@@ -24,6 +24,6 @@ Further reading [Government Digital Service Design Principles](https://www.gov.u
 
 ## License
 
-Copyright ©‎ 2016 to 2017, Office for National Statistics (https://www.ons.gov.uk).
+Copyright © 2018, Office for National Statistics (https://www.ons.gov.uk).
 
 Released under MIT license, see [LICENSE](LICENSE.md) for details.
