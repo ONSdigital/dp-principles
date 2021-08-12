@@ -18,7 +18,7 @@ These principles were created by the ONS Digital Publishing team. Thanks to Rhod
 10. Specialists, not silos
 11. Be inclusive not exclusive
 
-[Read Matt’s blog post about the principles](https://blog.ons.digital/2016/07/27/the-first-xi-ons-digital-publishing-principles/).
+[Read Matt’s blog post about the principles](https://digitalblog.ons.gov.uk/2016/07/27/the-first-xi-ons-digital-publishing-principles/).
 
 Further reading [Government Digital Service Design Principles](https://www.gov.uk/design-principles)
 
